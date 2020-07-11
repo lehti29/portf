@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/scss/bootstrap-reboot';
+@import '~bootstrap/scss/bootstrap-grid';
+
+body {
+     margin: 0;
+     background: rgb(110, 161, 136);
+     font-family: 'Montserrat', sans-serif;
+     height: 100vh;
+}
+
